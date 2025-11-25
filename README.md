@@ -2,7 +2,7 @@
 C++ console application simulating a cafeteria self-service system using advanced data structures (Priority Queue, BST) and Dijkstra's Algorithm for customer flow and inventory management.
 
 # 🍴 Cafeteria Management System Simulation
-![Self-service Tray canteen in cafeteria](https://media.istockphoto.com/id/178283142/photo/self-service-dessert-canteen-in-cafeteria.jpg?s=612x612&w=0&k=20&c=0By57mNxfIt-gWweSeLH72pUsgkHDhUoj32YgOqR6kE=)
+![Self-service Tray canteen in cafeteria]((https://thumbs.dreamstime.com/b/assorted-food-trays-ready-service-metal-tray-line-380337732.jpg))
 ## 📝 Project Overview
 
 This is a C++ console application that simulates a self-service cafeteria environment. The system manages customer queues (Students and Faculty), prioritizes service, tracks tray inventory, calculates wait times, and integrates graph algorithms (Dijkstra's) to model and optimize cafeteria physical flow.
